@@ -1,0 +1,61 @@
+{
+  "7f0de2832b777a91aebdbf292665199c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e64ff230e8350b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: skipping test",
+      "time" : {
+        "start" : 1638443739596,
+        "stop" : 1638443739596,
+        "duration" : 0
+      }
+    } ]
+  },
+  "14190fe2f5004064df3dfa26ff09dfc5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c34d4efea24a01bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638443739611,
+        "stop" : 1638443743060,
+        "duration" : 3449
+      }
+    } ]
+  },
+  "12bb8f15cfa2be9b2db3675515e60b99" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7fe0ec7a8597b557",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'str' object has no attribute 'get'",
+      "time" : {
+        "start" : 1638443739422,
+        "stop" : 1638443739422,
+        "duration" : 0
+      }
+    } ]
+  }
+}

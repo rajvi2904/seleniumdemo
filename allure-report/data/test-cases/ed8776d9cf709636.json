@@ -1,0 +1,60 @@
+{
+  "uid" : "ed8776d9cf709636",
+  "name" : "test_listemployees",
+  "fullName" : "test_allure_report.TestHRM#test_listemployees",
+  "historyId" : "7f0de2832b777a91aebdbf292665199c",
+  "time" : {
+    "start" : 1637736804746,
+    "stop" : 1637736804746,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: skipping test",
+  "statusTrace" : "('C:\\\\Users\\\\autovm\\\\Desktop\\\\demo\\\\test_allure_report.py', 18, 'Skipped: skipping test')",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "suite",
+    "value" : "test_allure_report"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestHRM"
+  }, {
+    "name" : "host",
+    "value" : "autovm"
+  }, {
+    "name" : "thread",
+    "value" : "7024-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_allure_report"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ed8776d9cf709636.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,60 @@
+{
+  "uid" : "2b27253b2151c6db",
+  "name" : "test_logo",
+  "fullName" : "test_allure_report.TestHRM#test_logo",
+  "historyId" : "12bb8f15cfa2be9b2db3675515e60b99",
+  "time" : {
+    "start" : 1638202875578,
+    "stop" : 1638202875578,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "statusMessage" : "AttributeError: 'str' object has no attribute 'get'",
+  "statusTrace" : "self = <test_allure_report.TestHRM object at 0x000001419C30B850>\n\n    @allure.severity(allure.severity_level.NORMAL)\n    def test_logo(self):\n         self.driver=r'chromedriver.exe'\n         url = \"https://opensource-demo.orangehrmlive.com/\"\n>        self.driver.get(url)\nE        AttributeError: 'str' object has no attribute 'get'\n\ntest_allure_report.py:10: AttributeError",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "suite",
+    "value" : "test_allure_report"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestHRM"
+  }, {
+    "name" : "host",
+    "value" : "autovm"
+  }, {
+    "name" : "thread",
+    "value" : "4800-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_allure_report"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2b27253b2151c6db.json",
+  "parameterValues" : [ ]
+}

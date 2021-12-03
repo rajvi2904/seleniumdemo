@@ -1,0 +1,64 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_allure_report",
+    "children" : [ {
+      "name" : "TestHRM",
+      "children" : [ {
+        "name" : "test_logo",
+        "uid" : "7fe0ec7a8597b557",
+        "parentUid" : "4dd83f73cd6bec0ca741727ae1235f5d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1638443739422,
+          "stop" : 1638443739422,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_listemployees",
+        "uid" : "2e64ff230e8350b",
+        "parentUid" : "4dd83f73cd6bec0ca741727ae1235f5d",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1638443739596,
+          "stop" : 1638443739596,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login",
+        "uid" : "c34d4efea24a01bb",
+        "parentUid" : "4dd83f73cd6bec0ca741727ae1235f5d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638443739611,
+          "stop" : 1638443743060,
+          "duration" : 3449
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4dd83f73cd6bec0ca741727ae1235f5d"
+    } ],
+    "uid" : "d80cf95262da47c4a9c7b4a674cf279f"
+  } ]
+}

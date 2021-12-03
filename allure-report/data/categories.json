@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "AttributeError: 'str' object has no attribute 'get'",
+      "children" : [ {
+        "name" : "test_logo",
+        "uid" : "7fe0ec7a8597b557",
+        "parentUid" : "c6c1d7085379b579ffae568f85c77bc1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1638443739422,
+          "stop" : 1638443739422,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c6c1d7085379b579ffae568f85c77bc1"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

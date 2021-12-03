@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"skipped","Thu Dec 02 11:15:39 UTC 2021","Thu Dec 02 11:15:39 UTC 2021","0","","test_allure_report","TestHRM","","","test_listemployees",""
+"broken","Thu Dec 02 11:15:39 UTC 2021","Thu Dec 02 11:15:39 UTC 2021","0","","test_allure_report","TestHRM","","","test_logo",""
+"passed","Thu Dec 02 11:15:39 UTC 2021","Thu Dec 02 11:15:43 UTC 2021","3449","","test_allure_report","TestHRM","","","test_login",""
